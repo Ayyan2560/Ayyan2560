@@ -91,5 +91,5 @@ Here are some of the exciting projects I've worked on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=Ayyan2560&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ayyan2560&theme=highcontrast" />
 </p>
